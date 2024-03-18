@@ -9,6 +9,6 @@ a {
     color: yellow;
 }
 
-a:hover a:visited {
+a:hover,a:visited {
     color: greenyellow;
 }
