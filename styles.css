@@ -1,6 +1,14 @@
 body {
-    background-color: black;
-    color: blanchedalmond;
+    background-color: #444;
+    color: white;
     font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+a {
+    color: yellow;
+}
+
+a:hover a:visited {
+    color: greenyellow;
 }
